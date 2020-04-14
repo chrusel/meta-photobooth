@@ -5,23 +5,22 @@ Please see the corresponding sections below for details.
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
+  https://git.yoctoproject.org/git/poky
+  branch: dunfell
 
-  URI: <second dependency>
-  branch: <branch name>
+  URI: https://git.yoctoproject.org/git/meta-raspberrypi
+  branch: dunfell
 
-  .
-  .
-  .
-
+  URI: git://git.openembedded.org/meta-openembedded
+  branch: dunfell
+  
 Patches
 =======
 
 Please submit any patches against the meta-photobooth layer to the xxxx mailing list (xxxx@zzzz.org)
 and cc: the maintainer:
 
-Maintainer: XXX YYYYYY <xxx.yyyyyy@zzzzz.com>
+Maintainer: Christian Herzig <github@herzig.info>
 
 Table of Contents
 =================
