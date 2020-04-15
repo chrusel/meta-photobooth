@@ -8,6 +8,10 @@ FEATURE_PACKAGES_photobooth-base = "\
   libpng \
   ffmpeg \
   mpv \
+  libsdl2 \
+  libsdl2-image \
+  cups \
+  hostapd \
 "
 
 FEATURE_PACKAGES_photobooth-tools = "\
