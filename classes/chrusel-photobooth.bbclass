@@ -21,6 +21,8 @@ FEATURE_PACKAGES_photobooth-base = "\
   iptables \
   wpa-supplicant \
   gphoto2-liveview-example \
+  psplash \
+  psplash-photobooth \
 "
 
 FEATURE_PACKAGES_photobooth-tools = "\
