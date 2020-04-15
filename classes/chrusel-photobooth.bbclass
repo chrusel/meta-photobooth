@@ -20,6 +20,7 @@ FEATURE_PACKAGES_photobooth-base = "\
   dhcp-server \
   iptables \
   wpa-supplicant \
+  gphoto2-liveview-example \
 "
 
 FEATURE_PACKAGES_photobooth-tools = "\
