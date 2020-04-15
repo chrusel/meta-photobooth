@@ -1,6 +1,6 @@
-DESCRIPTION = "Development Chruselpoky RasPi-Image with Sato Desktop for Photobooth."
+DESCRIPTION = "Chruselpoky RasPi-Image with Sato Desktop for Photobooth."
 
-IMAGE_FEATURES += "splash x11-base x11-sato hwcodecs photobooth-base photobooth-transfer photobooth-webserver read-only-rootfs"
+IMAGE_FEATURES += "splash x11-base x11-sato hwcodecs photobooth-base photobooth-transfer photobooth-webserver read-only-rootfs ssh-server-openssh"
 
 LICENSE = "MIT"
 inherit core-image
